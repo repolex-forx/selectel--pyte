@@ -1,0 +1,7 @@
+[2026-10-19T13:14:13Z] === AST ITERATION 1 START | repo=selectel/pyte sha=0718fa80 ===
+[2026-10-19T13:14:13Z] [iter=1] PHASE START: ast repo=selectel/pyte sha=0718fa80
+[2026-10-19T13:14:13Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T13:14:40Z] [iter=1] AST chunks built count=1 triples=226221
+[2026-10-19T13:14:40Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/0718fa80887dc646c2121b6706b362cc8c594032/.complete
+[2026-10-19T13:14:40Z] [iter=1] PHASE END: ast elapsed_s=27 elapsed_min=0.5
+[2026-10-19T13:14:40Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
