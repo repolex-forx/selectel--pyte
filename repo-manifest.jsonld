@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/selectel/pyte/commit/0718fa80887dc646c2121b6706b362cc8c594032",
       "git:hexsha": "0718fa80887dc646c2121b6706b362cc8c594032",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:15:41.270262+00:00"
     },
     {
       "@id": "https://repolex.ai/r/selectel/pyte/commit/bf7df79e521c9465f09aa02609afda5ea1d486c3",
