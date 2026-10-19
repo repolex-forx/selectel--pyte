@@ -1,0 +1,11 @@
+{
+  "org": "selectel",
+  "repo": "pyte",
+  "versions": [
+    {
+      "commit": "0718fa80887dc646c2121b6706b362cc8c594032",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:15:41.270815+00:00"
+    }
+  ]
+}
